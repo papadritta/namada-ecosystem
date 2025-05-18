@@ -15947,5 +15947,37 @@
                 "new_value": "up"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-18T21:02:33.821247+00:00Z",
+        "changes": [
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.OriginStake.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "1.1.5"
+            },
+            {
+                "team": "itrocket",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.itrocket.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "1.1.5"
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "1.1.5"
+            }
+        ]
     }
 ]
