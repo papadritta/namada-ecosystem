@@ -15680,5 +15680,136 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-18T19:32:07.547324+00:00Z",
+        "changes": [
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "n/a"
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.version",
+                "type": "modified",
+                "old_value": "1.2.1",
+                "new_value": "1.2.0"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "itrocket",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "n/a"
+            },
+            {
+                "team": "itrocket",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.itrocket.service.rpc.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "itrocket",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.itrocket.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "itrocket",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.itrocket.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "n/a"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.OriginStake.service.rpc.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.OriginStake.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.OriginStake.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "n/a"
+            }
+        ]
     }
 ]
