@@ -17394,5 +17394,28 @@
                 "new_value": "3.0.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-20T06:40:40.259208+00:00Z",
+        "changes": [
+            {
+                "team": "itrocket",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.service.masp.version",
+                "type": "modified",
+                "old_value": "1.1.0",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "itrocket",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.itrocket.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            }
+        ]
     }
 ]
