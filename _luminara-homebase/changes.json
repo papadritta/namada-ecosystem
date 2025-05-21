@@ -20504,5 +20504,91 @@
                 "new_value": "1.20.0-hotfix3"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T07:03:19.218961+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.interface.version",
+                "type": "modified",
+                "old_value": "1.20.0-hotfix2",
+                "new_value": "1.20.0-hotfix3"
+            },
+            {
+                "team": "max-02",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.max-02.interface.version",
+                "type": "modified",
+                "old_value": "1.20.2",
+                "new_value": "1.20.0-hotfix3"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Palamar.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2096790"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Palamar.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "2.5.4"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.version",
+                "type": "modified",
+                "old_value": "1.2.0",
+                "new_value": "1.2.1"
+            }
+        ]
     }
 ]
