@@ -22100,5 +22100,37 @@
                 "new_value": "2.5.4"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T21:33:35.392061+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2103969",
+                "new_value": "2104261"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.interface.version",
+                "type": "modified",
+                "old_value": "1.20.0-hotfix2",
+                "new_value": "1.20.0-hotfix3"
+            }
+        ]
     }
 ]
