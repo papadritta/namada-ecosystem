@@ -22022,5 +22022,28 @@
                 "new_value": "2.5.4"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T18:04:10.679048+00:00Z",
+        "changes": [
+            {
+                "team": "deNodes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.deNodes.service.indexer.version",
+                "type": "modified",
+                "old_value": "2.5.3",
+                "new_value": "2.5.4"
+            },
+            {
+                "team": "deNodes",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.deNodes.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            }
+        ]
     }
 ]
