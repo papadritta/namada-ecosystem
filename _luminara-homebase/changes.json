@@ -21907,5 +21907,55 @@
                 "new_value": "1.20.0-hotfix3"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T10:37:49.456143+00:00Z",
+        "changes": [
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.version",
+                "type": "modified",
+                "old_value": "2.5.3",
+                "new_value": "2.5.4"
+            },
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Validatus.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Validatus.interface.version",
+                "type": "modified",
+                "old_value": "1.20.2",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Validatus.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            }
+        ]
     }
 ]
