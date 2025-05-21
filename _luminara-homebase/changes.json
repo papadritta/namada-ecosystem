@@ -20590,5 +20590,46 @@
                 "new_value": "1.2.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T07:33:42.148594+00:00Z",
+        "changes": [
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Validatus.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Validatus.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.20.0-hotfix3"
+            },
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Validatus.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "1.20.0-hotfix2",
+                "new_value": "1.20.0-hotfix3"
+            }
+        ]
     }
 ]
