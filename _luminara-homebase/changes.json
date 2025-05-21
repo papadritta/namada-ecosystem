@@ -21957,5 +21957,19 @@
                 "new_value": "down"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T14:03:36.809298+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.interface.version",
+                "type": "modified",
+                "old_value": "1.20.0-hotfix2",
+                "new_value": "1.20.0-hotfix3"
+            }
+        ]
     }
 ]
