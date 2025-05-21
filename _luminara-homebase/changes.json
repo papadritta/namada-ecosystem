@@ -21999,5 +21999,28 @@
                 "new_value": "2.5.4"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-21T17:02:59.275033+00:00Z",
+        "changes": [
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.interface.version",
+                "type": "modified",
+                "old_value": "1.20.0-hotfix2",
+                "new_value": "1.20.0-hotfix3"
+            },
+            {
+                "team": "itrocket",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "2.5.4"
+            }
+        ]
     }
 ]
