@@ -22964,5 +22964,46 @@
                 "new_value": "2114400"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-22T17:34:52.640120+00:00Z",
+        "changes": [
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.L0vd.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2114400",
+                "new_value": "2114532"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2114396",
+                "new_value": "2114538"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            }
+        ]
     }
 ]
