@@ -23554,5 +23554,253 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-23T10:03:33.860374+00:00Z",
+        "changes": [
+            {
+                "team": "ValidatorVN",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.ValidatorVN.service.indexer.service",
+                "type": "removed",
+                "old_value": "indexer",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.ValidatorVN.service.indexer.url",
+                "type": "removed",
+                "old_value": "https://indexer.namada.tududes.com:443",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.ValidatorVN.service.indexer.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.ValidatorVN.service.indexer.version",
+                "type": "removed",
+                "old_value": "2.5.4",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.ValidatorVN.service.indexer.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.ValidatorVN.service.indexer.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.ValidatorVN.service.masp.service",
+                "type": "removed",
+                "old_value": "masp",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.ValidatorVN.service.masp.url",
+                "type": "removed",
+                "old_value": "https://masp.namada.tududes.com:443",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.ValidatorVN.service.masp.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.ValidatorVN.service.masp.version",
+                "type": "removed",
+                "old_value": "1.2.1",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.ValidatorVN.service.masp.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.ValidatorVN.service.masp.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.service",
+                "type": "removed",
+                "old_value": "rpc",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.url",
+                "type": "removed",
+                "old_value": "https://namada-mainnet-rpc.itrocket.net:443",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.version",
+                "type": "removed",
+                "old_value": "0.37.15",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.namada_version",
+                "type": "removed",
+                "old_value": "1.1.5",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.ValidatorVN.service.rpc.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.ValidatorVN.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.ValidatorVN.interface.version",
+                "type": "modified",
+                "old_value": "1.20.2",
+                "new_value": "n/a"
+            },
+            {
+                "team": "ValidatorVN",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.ValidatorVN.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Nodes.Guru.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2122904",
+                "new_value": "0"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Nodes.Guru.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Nodes.Guru.service.indexer.version",
+                "type": "modified",
+                "old_value": "2.5.4",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Nodes.Guru.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Nodes.Guru.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            }
+        ]
     }
 ]
