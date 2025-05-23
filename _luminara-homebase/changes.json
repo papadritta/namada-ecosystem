@@ -24947,5 +24947,100 @@
                 "new_value": "1.2.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-23T17:02:57.408000+00:00Z",
+        "changes": [
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.max-02.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2124922",
+                "new_value": "2126831"
+            },
+            {
+                "team": "max-02",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.max-02.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2124922",
+                "new_value": "2126810"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Hadesguard.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2124922",
+                "new_value": "2126812"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Hadesguard.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.OriginStake.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2124922",
+                "new_value": "2126824"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.LoserBoy.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2124922",
+                "new_value": "2126830"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
