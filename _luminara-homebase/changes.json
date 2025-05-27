@@ -26363,5 +26363,19 @@
                 "new_value": "1.20.0-hotfix3"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-27T15:03:35.362801+00:00Z",
+        "changes": [
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.StakeUp.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "1.1.5",
+                "new_value": "101.0.0"
+            }
+        ]
     }
 ]
