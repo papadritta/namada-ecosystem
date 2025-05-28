@@ -32888,5 +32888,19 @@
                 "new_value": "1.21.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-28T03:44:28.721305+00:00Z",
+        "changes": [
+            {
+                "team": "OriginStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.interface.version",
+                "type": "modified",
+                "old_value": "1.20.0-hotfix3",
+                "new_value": "1.21.0"
+            }
+        ]
     }
 ]
