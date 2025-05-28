@@ -33195,5 +33195,28 @@
                 "new_value": "2181959"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-28T05:03:11.713883+00:00Z",
+        "changes": [
+            {
+                "team": "EmberStake",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.EmberStake.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "EmberStake",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.EmberStake.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2157526",
+                "new_value": "2182394"
+            }
+        ]
     }
 ]
