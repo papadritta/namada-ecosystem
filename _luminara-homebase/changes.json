@@ -33412,5 +33412,28 @@
                 "new_value": "2182900"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-28T06:40:24.342502+00:00Z",
+        "changes": [
+            {
+                "team": "deNodes",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.deNodes.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "deNodes",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.deNodes.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2181124",
+                "new_value": "2183151"
+            }
+        ]
     }
 ]
