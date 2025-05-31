@@ -36757,5 +36757,136 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-31T13:00:41.572975+00:00Z",
+        "changes": [
+            {
+                "team": "Validatus",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Validatus.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2223453",
+                "new_value": "0"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "n/a"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.TuDudes.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.TuDudes.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.TuDudes.service.rpc.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2223449",
+                "new_value": "0"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
