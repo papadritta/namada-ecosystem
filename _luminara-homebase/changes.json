@@ -40586,5 +40586,46 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-03T20:16:08.659027+00:00Z",
+        "changes": [
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.0.0"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            }
+        ]
     }
 ]
