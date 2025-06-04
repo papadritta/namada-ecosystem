@@ -41243,5 +41243,19 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-04T20:34:19.361763+00:00Z",
+        "changes": [
+            {
+                "team": "max-02",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.max-02.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "1.23.0"
+            }
+        ]
     }
 ]
