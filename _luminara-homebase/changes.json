@@ -41613,5 +41613,37 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-05T20:35:05.166514+00:00Z",
+        "changes": [
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Palamar.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "n/a"
+            }
+        ]
     }
 ]
