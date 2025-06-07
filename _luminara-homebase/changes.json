@@ -43210,5 +43210,55 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-07T08:42:18.292998+00:00Z",
+        "changes": [
+            {
+                "team": "5ElementsNodes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "1.24.0"
+            },
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "1.24.0"
+            },
+            {
+                "team": "OriginStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "1.24.0"
+            },
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "1.24.0"
+            },
+            {
+                "team": "max-02",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.max-02.interface.version",
+                "type": "modified",
+                "old_value": "1.23.0",
+                "new_value": "1.24.0"
+            }
+        ]
     }
 ]
