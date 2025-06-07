@@ -44813,5 +44813,28 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-07T18:44:49.981073+00:00Z",
+        "changes": [
+            {
+                "team": "EmberStake",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.EmberStake.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.21.0",
+                "new_value": "1.24.0"
+            }
+        ]
     }
 ]
