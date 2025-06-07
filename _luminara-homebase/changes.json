@@ -44836,5 +44836,46 @@
                 "new_value": "1.24.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-07T19:10:21.317005+00:00Z",
+        "changes": [
+            {
+                "team": "Palamar",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Palamar.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Nodes.Guru.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "Validatus",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Validatus.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Validatus",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Validatus.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2311365",
+                "new_value": "2314985"
+            }
+        ]
     }
 ]
