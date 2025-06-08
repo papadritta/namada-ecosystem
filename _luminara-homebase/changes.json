@@ -45614,5 +45614,280 @@
                 "new_value": "101.1.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-08T08:16:29.921648+00:00Z",
+        "changes": [
+            {
+                "team": "-",
+                "service": "interface",
+                "field": "team",
+                "full_path": "namada.operator.-.interface.team",
+                "type": "added",
+                "old_value": null,
+                "new_value": "-"
+            },
+            {
+                "team": "-",
+                "service": "interface",
+                "field": "discord",
+                "full_path": "namada.operator.-.interface.discord",
+                "type": "added",
+                "old_value": null,
+                "new_value": "-"
+            },
+            {
+                "team": "-",
+                "service": "interface",
+                "field": "url",
+                "full_path": "namada.operator.-.interface.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://www.namadillo.app"
+            },
+            {
+                "team": "-",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.-.interface.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "-",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.-.interface.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.24.0"
+            },
+            {
+                "team": "-",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.-.interface.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "-",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.-.service.indexer.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "indexer"
+            },
+            {
+                "team": "-",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.-.service.indexer.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://indexer.namada.tududes.com"
+            },
+            {
+                "team": "-",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.-.service.indexer.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "-",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.-.service.indexer.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "-",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.-.service.indexer.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "-",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.-.service.indexer.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "-",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.-.service.masp.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "masp"
+            },
+            {
+                "team": "-",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.-.service.masp.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://masp.namada.tududes.com"
+            },
+            {
+                "team": "-",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.-.service.masp.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "-",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.-.service.masp.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "-",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.-.service.masp.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "-",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.-.service.masp.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "-",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.-.service.rpc.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "rpc"
+            },
+            {
+                "team": "-",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.-.service.rpc.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://rpc.namada.tududes.com"
+            },
+            {
+                "team": "-",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.-.service.rpc.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "-",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.-.service.rpc.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "-",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.-.service.rpc.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "-",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.-.service.rpc.namada_version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "101.0.0"
+            },
+            {
+                "team": "-",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.-.service.rpc.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.shield-crypto.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2321694"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.shield-crypto.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
