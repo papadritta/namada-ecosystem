@@ -46517,5 +46517,19 @@
                 "new_value": "1.24.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-09T16:48:50.294809+00:00Z",
+        "changes": [
+            {
+                "team": "deNodes",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.deNodes.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "101.1.1"
+            }
+        ]
     }
 ]
