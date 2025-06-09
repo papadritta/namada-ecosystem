@@ -46457,5 +46457,37 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-09T11:36:51.524384+00:00Z",
+        "changes": [
+            {
+                "team": "max-02",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.max-02.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.TuDudes.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "-",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.-.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.0.0",
+                "new_value": "101.1.1"
+            }
+        ]
     }
 ]
