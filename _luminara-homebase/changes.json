@@ -47643,5 +47643,64 @@
                 "new_value": "0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-10T13:09:03.210734+00:00Z",
+        "changes": [
+            {
+                "team": "Validatus",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Validatus.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Validatus",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Validatus.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Validatus",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Validatus.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Validatus",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Validatus.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "Validatus",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Validatus.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Validatus",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Validatus.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2349523"
+            }
+        ]
     }
 ]
