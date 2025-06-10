@@ -47938,5 +47938,316 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-10T19:34:57.217597+00:00Z",
+        "changes": [
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.TuDudes.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2352895"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.TuDudes.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.TuDudes.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "L0vd",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.L0vd.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.24.0"
+            },
+            {
+                "team": "L0vd",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.L0vd.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.L0vd.service.indexer.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "indexer"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.L0vd.service.indexer.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://namada-mainnet-indexer.rpc.l0vd.com:443"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.L0vd.service.indexer.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.L0vd.service.indexer.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "3.0.2"
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.L0vd.service.indexer.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "L0vd",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.indexer.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "L0vd",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.L0vd.service.masp.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "masp"
+            },
+            {
+                "team": "L0vd",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.L0vd.service.masp.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://namada-mainnet-masp-indexer.rpc.l0vd.com:443"
+            },
+            {
+                "team": "L0vd",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.L0vd.service.masp.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "L0vd",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.L0vd.service.masp.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "L0vd",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.L0vd.service.masp.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "L0vd",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.masp.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "L0vd",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.L0vd.service.rpc.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "rpc"
+            },
+            {
+                "team": "L0vd",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.L0vd.service.rpc.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://namada-mainnet.rpc.l0vd.com/"
+            },
+            {
+                "team": "L0vd",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.L0vd.service.rpc.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "L0vd",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.L0vd.service.rpc.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "L0vd",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.L0vd.service.rpc.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "L0vd",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.L0vd.service.rpc.namada_version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "L0vd",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.rpc.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "L0vd",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.L0vd.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Heliax.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Heliax.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Heliax.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2352894"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Heliax.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Heliax.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            }
+        ]
     }
 ]
