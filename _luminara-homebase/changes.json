@@ -47702,5 +47702,28 @@
                 "new_value": "2349523"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-10T14:43:07.635190+00:00Z",
+        "changes": [
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.LoserBoy.service.indexer.url",
+                "type": "modified",
+                "old_value": "https://indexer.namada.tududes.com",
+                "new_value": "https://index-namada.5elementsnodes.com"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.LoserBoy.service.masp.url",
+                "type": "modified",
+                "old_value": "https://masp.namada.tududes.com",
+                "new_value": "https://masp-namada.5elementsnodes.com"
+            }
+        ]
     }
 ]
