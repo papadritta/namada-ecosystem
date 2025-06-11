@@ -51117,5 +51117,37 @@
                 "new_value": "0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-11T17:40:20.229551+00:00Z",
+        "changes": [
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.0.2"
+            }
+        ]
     }
 ]
