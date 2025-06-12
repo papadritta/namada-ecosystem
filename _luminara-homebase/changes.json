@@ -51382,5 +51382,64 @@
                 "new_value": "3.1.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-12T10:03:37.608454+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "3.1.0"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Sproutstake.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Sproutstake.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2372704",
+                "new_value": "0"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Sproutstake.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Sproutstake.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Sproutstake.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            }
+        ]
     }
 ]
