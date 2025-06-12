@@ -51282,5 +51282,55 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-12T07:03:22.763161+00:00Z",
+        "changes": [
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.LoserBoy.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2371167",
+                "new_value": "0"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "n/a"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            }
+        ]
     }
 ]
