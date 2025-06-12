@@ -51979,5 +51979,19 @@
                 "new_value": "3.1.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-12T13:12:29.902524+00:00Z",
+        "changes": [
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "3.1.0"
+            }
+        ]
     }
 ]
