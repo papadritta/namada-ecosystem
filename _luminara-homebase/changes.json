@@ -54389,5 +54389,28 @@
                 "new_value": "1.26.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-13T18:39:53.447128+00:00Z",
+        "changes": [
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            }
+        ]
     }
 ]
