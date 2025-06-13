@@ -53690,5 +53690,460 @@
                 "new_value": "1.26.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-13T16:38:49.628497+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "OriginStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.service",
+                "type": "removed",
+                "old_value": "indexer",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.url",
+                "type": "removed",
+                "old_value": "https://indexer.namada.citizenweb3.com",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.version",
+                "type": "removed",
+                "old_value": "3.1.0",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.indexer.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.Citizen Web3.service.masp.service",
+                "type": "removed",
+                "old_value": "masp",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.Citizen Web3.service.masp.url",
+                "type": "removed",
+                "old_value": "https://masp-indexer.namada.citizenweb3.com",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.Citizen Web3.service.masp.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Citizen Web3.service.masp.version",
+                "type": "removed",
+                "old_value": "1.3.0",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Citizen Web3.service.masp.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.masp.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.service",
+                "type": "removed",
+                "old_value": "rpc",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.url",
+                "type": "removed",
+                "old_value": "https://rpc.namada-archive.citizenweb3.com",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.version",
+                "type": "removed",
+                "old_value": "0.37.15",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.namada_version",
+                "type": "removed",
+                "old_value": "101.1.1",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Citizen Web3.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Citizen Web3.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Citizen Web3.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "Sproutstake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Sproutstake.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Nodes.Guru.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.Grand Valley.service.indexer.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "indexer"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.Grand Valley.service.indexer.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://indexer-mainnet-namada.grandvalleys.com"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.service.indexer.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.service.indexer.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "3.1.0"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.service.indexer.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.indexer.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.Grand Valley.service.masp.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "masp"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.Grand Valley.service.masp.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://masp-indexer-mainnet-namada.grandvalleys.com"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.service.masp.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.service.masp.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.service.masp.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.masp.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.Grand Valley.service.rpc.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "rpc"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.Grand Valley.service.rpc.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://lightnode-rpc-mainnet-namada.grandvalleys.com"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.service.rpc.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.service.rpc.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.service.rpc.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Grand Valley.service.rpc.namada_version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.rpc.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Grand Valley",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            }
+        ]
     }
 ]
