@@ -55631,5 +55631,28 @@
                 "new_value": "1.26.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-14T10:36:13.593258+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2397405",
+                "new_value": "2398328"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
