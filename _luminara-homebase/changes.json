@@ -55608,5 +55608,28 @@
                 "new_value": "2397804"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-14T10:02:59.728247+00:00Z",
+        "changes": [
+            {
+                "team": "Hadesguard",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Hadesguard.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            },
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.EmberStake.interface.version",
+                "type": "modified",
+                "old_value": "1.24.0",
+                "new_value": "1.26.0"
+            }
+        ]
     }
 ]
