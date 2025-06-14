@@ -55654,5 +55654,55 @@
                 "new_value": "sync_ok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-14T11:02:26.349700+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.papadritta.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.papadritta.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2398341",
+                "new_value": "0"
+            },
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.0.2",
+                "new_value": "n/a"
+            },
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.papadritta.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.papadritta.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            }
+        ]
     }
 ]
