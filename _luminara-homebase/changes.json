@@ -57474,5 +57474,37 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-15T14:02:30.717920+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.papadritta.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.papadritta.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.1.0",
+                "new_value": "n/a"
+            }
+        ]
     }
 ]
