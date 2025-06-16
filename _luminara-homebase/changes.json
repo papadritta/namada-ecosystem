@@ -61233,5 +61233,19 @@
                 "new_value": "up"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-16T18:40:31.482585+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.1.0",
+                "new_value": "3.2.0"
+            }
+        ]
     }
 ]
