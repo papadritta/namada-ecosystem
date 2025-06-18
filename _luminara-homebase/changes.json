@@ -68504,5 +68504,118 @@
                 "new_value": "n/a"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-18T21:34:08.887857+00:00Z",
+        "changes": [
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2454229"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "max-02",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.max-02.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "max-02",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.max-02.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "max-02",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.max-02.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "max-02",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.max-02.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "max-02",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.max-02.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2454246"
+            },
+            {
+                "team": "max-02",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.max-02.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            }
+        ]
     }
 ]
