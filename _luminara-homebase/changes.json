@@ -75007,5 +75007,433 @@
                 "new_value": "up"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-19T21:33:52.806676+00:00Z",
+        "changes": [
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.StakeUp.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.StakeUp.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.service",
+                "type": "removed",
+                "old_value": "indexer",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.url",
+                "type": "removed",
+                "old_value": "https://index2-namada.5elementsnodes.com",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.version",
+                "type": "removed",
+                "old_value": "3.2.0",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.service",
+                "type": "removed",
+                "old_value": "masp",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.url",
+                "type": "removed",
+                "old_value": "https://masp2-namada.5elementsnodes.com",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.version",
+                "type": "removed",
+                "old_value": "1.3.0",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.masp.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.service",
+                "type": "removed",
+                "old_value": "rpc",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.url",
+                "type": "removed",
+                "old_value": "https://rpc-namada.5elementsnodes.com",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.version",
+                "type": "removed",
+                "old_value": "0.37.15",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.namada_version",
+                "type": "removed",
+                "old_value": "101.1.1",
+                "new_value": null
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.service",
+                "type": "removed",
+                "old_value": "indexer",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.url",
+                "type": "removed",
+                "old_value": "https://namada-mainnet-indexer.mellifera.network",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.version",
+                "type": "removed",
+                "old_value": "3.2.0",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.MELLIFERA.service.masp.service",
+                "type": "removed",
+                "old_value": "masp",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.MELLIFERA.service.masp.url",
+                "type": "removed",
+                "old_value": "https://namada-mainnet-masp.mellifera.network",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.MELLIFERA.service.masp.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.masp.version",
+                "type": "removed",
+                "old_value": "1.3.0",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.MELLIFERA.service.masp.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.masp.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.service",
+                "type": "removed",
+                "old_value": "rpc",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.url",
+                "type": "removed",
+                "old_value": "https://namada-mainnet-rpc.mellifera.network:443",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.status",
+                "type": "removed",
+                "old_value": "up",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.version",
+                "type": "removed",
+                "old_value": "0.37.15",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.is_up_to_date",
+                "type": "removed",
+                "old_value": true,
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.namada_version",
+                "type": "removed",
+                "old_value": "101.1.1",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.MELLIFERA.service.rpc.sync_state",
+                "type": "removed",
+                "old_value": "sync_ok",
+                "new_value": null
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.MELLIFERA.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.MELLIFERA.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "max-02",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.max-02.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2466519",
+                "new_value": "2466715"
+            },
+            {
+                "team": "max-02",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.max-02.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            }
+        ]
     }
 ]
