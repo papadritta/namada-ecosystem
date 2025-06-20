@@ -77119,5 +77119,100 @@
                 "new_value": "2472242"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-20T08:38:58.111810+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2472242",
+                "new_value": "2472465"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2472003",
+                "new_value": "2472440"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Nodes.Guru.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.interface.version",
+                "type": "modified",
+                "old_value": "1.26.0",
+                "new_value": "1.27.0"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.Heliax.service.rpc.url",
+                "type": "modified",
+                "old_value": "https://namada-rpc.emberstake.xyz",
+                "new_value": "https://namada-mainnet-rpc.itrocket.net"
+            },
+            {
+                "team": "Heliax",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.Heliax.service.indexer.url",
+                "type": "modified",
+                "old_value": "https://namada-idx.emberstake.xyz",
+                "new_value": "https://namada-mainnet-indexer.itrocket.net"
+            },
+            {
+                "team": "Heliax",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.Heliax.service.masp.url",
+                "type": "modified",
+                "old_value": "https://namada-masp-idx.emberstake.xyz",
+                "new_value": "https://namada-mainnet-masp.itrocket.net"
+            }
+        ]
     }
 ]
