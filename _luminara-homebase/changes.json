@@ -79133,5 +79133,37 @@
                 "new_value": "1.28.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-20T21:33:28.415956+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.interface.version",
+                "type": "modified",
+                "old_value": "1.28.0",
+                "new_value": "1.28.1"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.0"
+            },
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.28.0",
+                "new_value": "1.28.1"
+            }
+        ]
     }
 ]
