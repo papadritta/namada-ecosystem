@@ -80608,5 +80608,37 @@
                 "new_value": "1.28.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-21T08:03:21.807957+00:00Z",
+        "changes": [
+            {
+                "team": "itrocket",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.itrocket.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.2"
+            },
+            {
+                "team": "OriginStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.2"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "1.27.0",
+                "new_value": "1.28.2"
+            }
+        ]
     }
 ]
