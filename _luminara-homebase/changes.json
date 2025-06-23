@@ -83733,5 +83733,46 @@
                 "new_value": "1.28.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-23T18:40:50.422537+00:00Z",
+        "changes": [
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.0"
+            },
+            {
+                "team": "MekongLabs",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.MekongLabs.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.0"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Hadesguard.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.0"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.0"
+            }
+        ]
     }
 ]
