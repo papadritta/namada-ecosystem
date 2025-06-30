@@ -87559,5 +87559,28 @@
                 "new_value": false
             }
         ]
+    },
+    {
+        "timestamp": "2025-06-30T02:37:56.712945+00:00Z",
+        "changes": [
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.28.2",
+                "new_value": "1.28.3"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Hadesguard.interface.version",
+                "type": "modified",
+                "old_value": "1.28.2",
+                "new_value": "1.28.3"
+            }
+        ]
     }
 ]
