@@ -94219,5 +94219,19 @@
                 "new_value": "1.29.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-07T14:37:04.640512+00:00Z",
+        "changes": [
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            }
+        ]
     }
 ]
