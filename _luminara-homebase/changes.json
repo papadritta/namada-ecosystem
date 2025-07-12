@@ -98815,5 +98815,19 @@
                 "new_value": "0.37.15"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-12T00:12:24.805719+00:00Z",
+        "changes": [
+            {
+                "team": "Citizen Web3",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Citizen Web3.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            }
+        ]
     }
 ]
