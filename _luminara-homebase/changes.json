@@ -102251,5 +102251,28 @@
                 "new_value": "2775229"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-14T18:42:40.510555+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.2"
+            },
+            {
+                "team": "itrocket",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.itrocket.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_nok"
+            }
+        ]
     }
 ]
