@@ -103948,5 +103948,19 @@
                 "new_value": "0.37.15"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-15T13:42:45.785021+00:00Z",
+        "changes": [
+            {
+                "team": "papadritta",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.papadritta.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.2.0",
+                "new_value": "3.3.2"
+            }
+        ]
     }
 ]
