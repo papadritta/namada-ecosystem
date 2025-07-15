@@ -103111,5 +103111,28 @@
                 "new_value": false
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-15T06:42:59.299163+00:00Z",
+        "changes": [
+            {
+                "team": "itrocket",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.itrocket.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "itrocket",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.itrocket.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2775229",
+                "new_value": "2781835"
+            }
+        ]
     }
 ]
