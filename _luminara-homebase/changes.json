@@ -108026,5 +108026,19 @@
                 "new_value": "3.3.4"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-16T23:03:09.603922+00:00Z",
+        "changes": [
+            {
+                "team": "MELLIFERA",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.MELLIFERA.interface.version",
+                "type": "modified",
+                "old_value": "1.29.0",
+                "new_value": "1.31.1"
+            }
+        ]
     }
 ]
