@@ -105626,5 +105626,82 @@
                 "new_value": "down"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-16T15:37:18.072894+00:00Z",
+        "changes": [
+            {
+                "team": "5ElementsNodes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.interface.version",
+                "type": "modified",
+                "old_value": "1.29.0",
+                "new_value": "1.31.0"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.3",
+                "new_value": "3.3.4"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.3",
+                "new_value": "3.3.4"
+            },
+            {
+                "team": "Palamar",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.interface.version",
+                "type": "modified",
+                "old_value": "1.29.0",
+                "new_value": "1.31.0"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.2",
+                "new_value": "3.3.4"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.CroutonDigital.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2774301",
+                "new_value": "2798773"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.interface.version",
+                "type": "modified",
+                "old_value": "1.30.0",
+                "new_value": "1.31.0"
+            }
+        ]
     }
 ]
