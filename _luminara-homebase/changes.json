@@ -106515,5 +106515,712 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-16T19:03:52.045801+00:00Z",
+        "changes": [
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.interface.version",
+                "type": "modified",
+                "old_value": "1.31.0",
+                "new_value": "1.31.1"
+            },
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.31.0"
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.StakeUp.service.indexer.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "indexer"
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.StakeUp.service.indexer.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://indexer.namada.stakeup.tech"
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.StakeUp.service.indexer.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.service.indexer.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "3.3.4"
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.StakeUp.service.indexer.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "StakeUp",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.StakeUp.service.indexer.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.StakeUp.service.masp.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "masp"
+            },
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.StakeUp.service.masp.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://masp-indexer.namada.stakeup.tech"
+            },
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.StakeUp.service.masp.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.service.masp.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.StakeUp.service.masp.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.StakeUp.service.masp.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.StakeUp.service.rpc.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "rpc"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.StakeUp.service.rpc.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://rpc.namada.stakeup.tech"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.StakeUp.service.rpc.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.StakeUp.service.rpc.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.StakeUp.service.rpc.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.StakeUp.service.rpc.namada_version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "StakeUp",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.StakeUp.service.rpc.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.StakeUp.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "StakeUp",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.StakeUp.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Hadesguard.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2800625"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Hadesguard.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.3.4"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Hadesguard.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Hadesguard.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Hadesguard.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "TuDudes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.interface.version",
+                "type": "modified",
+                "old_value": "1.29.0",
+                "new_value": "1.31.1"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "2800625"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "3.3.4"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.TuDudes.service.indexer.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.TuDudes.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.31.1"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.Grand Valley.service.indexer.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "indexer"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.Grand Valley.service.indexer.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://indexer-mainnet-namada.grandvalleys.com"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.service.indexer.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "down"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.service.indexer.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "n/a"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.service.indexer.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": false
+            },
+            {
+                "team": "Grand Valley",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.indexer.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.Grand Valley.service.masp.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "masp"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.Grand Valley.service.masp.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://masp-indexer-mainnet-namada.grandvalleys.com"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.service.masp.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.service.masp.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.service.masp.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.masp.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.Grand Valley.service.rpc.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "rpc"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.Grand Valley.service.rpc.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://lightnode-rpc-mainnet-namada.grandvalleys.com"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.service.rpc.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.service.rpc.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.service.rpc.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.Grand Valley.service.rpc.namada_version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.rpc.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Grand Valley",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.31.1"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "service",
+                "full_path": "namada.operator.LoserBoy.service.indexer.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "indexer"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "url",
+                "full_path": "namada.operator.LoserBoy.service.indexer.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://index2-namada.5elementsnodes.com"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.indexer.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.indexer.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "3.3.4"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.service.indexer.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.indexer.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "service",
+                "full_path": "namada.operator.LoserBoy.service.masp.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "masp"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "url",
+                "full_path": "namada.operator.LoserBoy.service.masp.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://masp2-namada.5elementsnodes.com"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.masp.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.masp.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "1.3.0"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.service.masp.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.masp.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "service",
+                "full_path": "namada.operator.LoserBoy.service.rpc.service",
+                "type": "added",
+                "old_value": null,
+                "new_value": "rpc"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "url",
+                "full_path": "namada.operator.LoserBoy.service.rpc.url",
+                "type": "added",
+                "old_value": null,
+                "new_value": "https://namada.loserboy.xyz"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.rpc.status",
+                "type": "added",
+                "old_value": null,
+                "new_value": "up"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.rpc.version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.service.rpc.is_up_to_date",
+                "type": "added",
+                "old_value": null,
+                "new_value": true
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.LoserBoy.service.rpc.namada_version",
+                "type": "added",
+                "old_value": null,
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.rpc.sync_state",
+                "type": "added",
+                "old_value": null,
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "LoserBoy",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            }
+        ]
     }
 ]
