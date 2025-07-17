@@ -108621,5 +108621,46 @@
                 "new_value": "1.31.1"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-17T16:03:43.297479+00:00Z",
+        "changes": [
+            {
+                "team": "deNodes",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.deNodes.interface.version",
+                "type": "modified",
+                "old_value": "1.29.0",
+                "new_value": "1.31.1"
+            },
+            {
+                "team": "deNodes",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.deNodes.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2774042",
+                "new_value": "2811407"
+            },
+            {
+                "team": "deNodes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.deNodes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "deNodes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.deNodes.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.2",
+                "new_value": "3.3.4"
+            }
+        ]
     }
 ]
