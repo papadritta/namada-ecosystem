@@ -108271,5 +108271,19 @@
                 "new_value": true
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-17T04:15:07.634392+00:00Z",
+        "changes": [
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.interface.version",
+                "type": "modified",
+                "old_value": "1.29.0",
+                "new_value": "1.31.1"
+            }
+        ]
     }
 ]
