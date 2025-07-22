@@ -112747,5 +112747,37 @@
                 "new_value": null
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-22T14:37:46.517476+00:00Z",
+        "changes": [
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Validatus.interface.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.29.0"
+            },
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Validatus.interface.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Validatus",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Validatus.interface.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            }
+        ]
     }
 ]
