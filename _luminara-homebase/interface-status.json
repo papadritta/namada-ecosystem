@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-07-16T11:42:46.462079+00:00Z",
-    "script_end_time": "2026-07-16T11:55:02.802322+00:00Z",
-    "reference_latest_block_height": "7317256",
+    "script_start_time": "2026-07-16T14:01:55.420428+00:00Z",
+    "script_end_time": "2026-07-16T14:14:06.494762+00:00Z",
+    "reference_latest_block_height": "7318423",
     "required_versions": {
         "interface": "1.20.0-hotfix2",
         "indexer": "2.5.4",
@@ -45,8 +45,8 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7317180",
-                            "sync_state": "sync_lag"
+                            "latest_block_height": "7318402",
+                            "sync_state": "sync_ok"
                         }
                     ]
                 },
@@ -136,8 +136,8 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "7317197",
-                            "sync_state": "sync_lag"
+                            "latest_block_height": "7318423",
+                            "sync_state": "sync_ok"
                         },
                         {
                             "service": "masp",
@@ -155,8 +155,8 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7317197",
-                            "sync_state": "sync_lag"
+                            "latest_block_height": "7318423",
+                            "sync_state": "sync_ok"
                         }
                     ]
                 },
@@ -193,8 +193,8 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7317198",
-                            "sync_state": "sync_lag"
+                            "latest_block_height": "7318423",
+                            "sync_state": "sync_ok"
                         }
                     ]
                 },
@@ -357,39 +357,10 @@
                     "team": "papadritta",
                     "discord": "papadritta",
                     "url": "https://ui.papadritta.com",
-                    "status": "up",
-                    "version": "6.6.1",
-                    "is_up_to_date": true,
-                    "settings": [
-                        {
-                            "service": "indexer",
-                            "url": "https://indexer.papadritta.com",
-                            "status": "up",
-                            "version": "4.1.0",
-                            "is_up_to_date": true,
-                            "latest_block_height": "7317256",
-                            "sync_state": "sync_ok"
-                        },
-                        {
-                            "service": "masp",
-                            "url": "https://masp-indexer.papadritta.com",
-                            "status": "down",
-                            "version": "n/a",
-                            "is_up_to_date": false,
-                            "latest_block_height": "0",
-                            "sync_state": "sync_nok"
-                        },
-                        {
-                            "service": "rpc",
-                            "url": "https://rpc.papadritta.com",
-                            "status": "up",
-                            "version": "0.37.16",
-                            "is_up_to_date": true,
-                            "namada_version": "201.0.7",
-                            "latest_block_height": "7317256",
-                            "sync_state": "sync_ok"
-                        }
-                    ]
+                    "status": "down",
+                    "version": "n/a",
+                    "is_up_to_date": false,
+                    "settings": []
                 }
             ]
         },
