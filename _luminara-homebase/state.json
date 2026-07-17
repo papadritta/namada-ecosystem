@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-07-17T09:26:56.857530+00:00Z",
-    "script_end_time": "2026-07-17T09:40:42.980441+00:00Z",
-    "reference_latest_block_height": "7328665",
+    "script_start_time": "2026-07-17T11:06:44.569304+00:00Z",
+    "script_end_time": "2026-07-17T11:18:55.801889+00:00Z",
+    "reference_latest_block_height": "7329542",
     "required_versions": {
         "interface": "1.20.0-hotfix2",
         "indexer": "2.5.4",
@@ -45,7 +45,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7328645",
+                            "latest_block_height": "7329521",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -136,7 +136,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "7328665",
+                            "latest_block_height": "7329542",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -155,7 +155,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7328665",
+                            "latest_block_height": "7329542",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -180,21 +180,21 @@
                         {
                             "service": "masp",
                             "url": "https://namada-masp.stakeandrelax.net:443",
-                            "status": "down",
-                            "version": "n/a",
-                            "is_up_to_date": false,
-                            "latest_block_height": "0",
+                            "status": "up",
+                            "version": "1.4.7",
+                            "is_up_to_date": true,
+                            "latest_block_height": "4513329",
                             "sync_state": "sync_nok"
                         },
                         {
                             "service": "rpc",
                             "url": "https://namada-rpc.stakeandrelax.net:443",
-                            "status": "down",
-                            "version": "n/a",
-                            "is_up_to_date": false,
-                            "namada_version": "n/a",
-                            "latest_block_height": "0",
-                            "sync_state": "sync_nok"
+                            "status": "up",
+                            "version": "0.37.16",
+                            "is_up_to_date": true,
+                            "namada_version": "201.0.7",
+                            "latest_block_height": "7329542",
+                            "sync_state": "sync_ok"
                         }
                     ]
                 },
