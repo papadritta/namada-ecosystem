@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-09-04T08:40:36.762016+00:00Z",
-    "script_end_time": "2026-09-04T08:54:00.852946+00:00Z",
+    "script_start_time": "2026-09-04T13:18:40.980959+00:00Z",
+    "script_end_time": "2026-09-04T13:31:45.684441+00:00Z",
     "reference_latest_block_height": "7914106",
     "required_versions": {
         "interface": "1.20.0-hotfix2",
@@ -63,10 +63,39 @@
                     "team": "5ElementsNodes",
                     "discord": "h3ll0_friend",
                     "url": "https://namadillo.5elementsnodes.com",
-                    "status": "down",
-                    "version": "n/a",
-                    "is_up_to_date": false,
-                    "settings": []
+                    "status": "up",
+                    "version": "6.6.1",
+                    "is_up_to_date": true,
+                    "settings": [
+                        {
+                            "service": "indexer",
+                            "url": "https://index2-namada.5elementsnodes.com",
+                            "status": "up",
+                            "version": "4.1.3",
+                            "is_up_to_date": true,
+                            "latest_block_height": "7914106",
+                            "sync_state": "sync_ok"
+                        },
+                        {
+                            "service": "masp",
+                            "url": "https://masp2-namada.5elementsnodes.com",
+                            "status": "up",
+                            "version": "1.4.7",
+                            "is_up_to_date": true,
+                            "latest_block_height": "7914047",
+                            "sync_state": "sync_lag"
+                        },
+                        {
+                            "service": "rpc",
+                            "url": "https://rpc.namada.net",
+                            "status": "up",
+                            "version": "0.37.16",
+                            "is_up_to_date": true,
+                            "namada_version": "201.0.7",
+                            "latest_block_height": "7914106",
+                            "sync_state": "sync_ok"
+                        }
+                    ]
                 },
                 {
                     "team": "Hadesguard",
@@ -136,7 +165,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": true,
-                            "latest_block_height": "7417432",
+                            "latest_block_height": "7417439",
                             "sync_state": "sync_nok"
                         },
                         {
@@ -155,7 +184,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7734446",
+                            "latest_block_height": "7735394",
                             "sync_state": "sync_nok"
                         }
                     ]
